@@ -29,7 +29,7 @@ Enter mark 1: 90
 Enter mark 2: 80  
 Enter mark 3: 85  
 
---- Result ---  
+   Result   
 Name: Ray  
 Total: 255  
 Average: 85.0  
